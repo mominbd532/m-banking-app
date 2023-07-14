@@ -24,7 +24,9 @@ npm run dev
 6. Edit the .env file for database connection.
 
 DB_DATABASE=your_database_name
+
 DB_USERNAME=your_database_username
+
 DB_PASSWORD=your_database_passward
 
 7. Then run below command:
