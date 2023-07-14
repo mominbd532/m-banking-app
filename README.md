@@ -30,6 +30,7 @@ DB_USERNAME=your_database_username
 DB_PASSWORD=your_database_passward
 
 7. Then run below command:
+
 php artisan migrate
 
 php artisan key:generate
