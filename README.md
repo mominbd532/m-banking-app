@@ -21,7 +21,7 @@ npm install
 
 npm run dev
 
-6. Edit the .env file for database connection.
+6.Copy .env.example filr to .env and Edit the .env file for database connection.
 
 DB_DATABASE=your_database_name
 
@@ -31,4 +31,7 @@ DB_PASSWORD=your_database_passward
 
 7. Then run below command:
 php artisan migrate
+
+php artisan key:generate
+
 php artisan serve
